@@ -4,13 +4,13 @@ import string
 import simplejson as myjson
 from requests.exceptions import HTTPError
 import json
-api_key = "FDw9cmtBB2GHe7XdfYtwHNBtYlSir3g4"
+api_key = "API_KEY"
 
-client_id = "JtFM1DZLTzvUasIAV5jAZpHvXOkdLkmo"
-client_secret = "ine4AbDG0cHDsaSy"
-account = "25565267890"
-pin = "3487"
-id = "ElimuTube Company"
+client_id = "CLIENT_KEY"
+client_secret = "CLIENT_SECRET"
+account = "ACOUNT_NUMBER"
+pin = "PIN"
+id = "COMPANY_ID"
 
 
 class AccessToken:
